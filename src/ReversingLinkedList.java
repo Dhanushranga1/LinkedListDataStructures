@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ReversingLinkedList {
+public class ReversingLinkedList {
+    public static void main(String args[]){
+        System.out.println("Hello World");
+    }
 }
